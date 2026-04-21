@@ -598,9 +598,6 @@ chore:    Build / config changes
 **Your Name**
 *Full Stack Developer Intern @ Code-B*
 
-[![GitHub](https://img.shields.io/badge/GitHub-@SkjOO5-181717?style=flat-square&logo=github)](https://github.com/SkjOO5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-
 </div>
 
 ---
