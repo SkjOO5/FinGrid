@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --color-primary: var(--c-primary);
+  --color-secondary: var(--c-secondary);
+  --color-success: #10b981;
+  --color-danger: #ef4444;
+  --color-background: var(--c-background);
+  --color-surface: var(--c-surface);
+  --color-surface-hover: var(--c-surface-hover);
+  --color-textPrimary: var(--c-text-primary);
+  --color-textSecondary: var(--c-text-secondary);
+  --color-border: var(--c-border);
+  --font-sans: 'Inter', sans-serif;
+}
+
+:root {
+  --c-primary: #2563EB;
+  --c-secondary: #7C3AED;
+  --c-background: #F8FAFC;
+  --c-surface: #FFFFFF;
+  --c-surface-hover: #F1F5F9;
+  --c-text-primary: #0F172A;
+  --c-text-secondary: #64748B;
+  --c-border: #E2E8F0;
+}
+
+.dark {
+  --c-primary: #3B82F6;
+  --c-secondary: #8B5CF6;
+  --c-background: #0F172A;
+  --c-surface: #1E293B;
+  --c-surface-hover: #334155;
+  --c-text-primary: #F8FAFC;
+  --c-text-secondary: #94A3B8;
+  --c-border: #334155;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-background);
+  color: var(--color-textPrimary);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Glassmorphism utilities */
+.glass-panel {
+  background: var(--c-surface);
+  backdrop-filter: blur(10px);
+  border: 1px solid var(--c-border);
+}
+.dark .glass-panel {
+  background: rgba(30, 41, 59, 0.7);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
