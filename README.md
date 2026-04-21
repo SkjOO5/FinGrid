@@ -595,7 +595,7 @@ chore:    Build / config changes
 
 <div align="center">
 
-**Your Name**
+**Suman Kumar Jha**
 *Full Stack Developer Intern @ Code-B*
 
 </div>
