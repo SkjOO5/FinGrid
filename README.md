@@ -25,8 +25,7 @@ and monitor payments — all in one powerful dark-mode dashboard.
 [🛠 Tech Stack](#-tech-stack) •
 [🚀 Getting Started](#-getting-started) •
 [📁 Project Structure](#-project-structure) •
-[📡 API Docs](#-api-documentation) •
-[🖼 Screenshots](#-screenshots)
+[📡 API Docs](#-api-documentation)
 
 </div>
 
