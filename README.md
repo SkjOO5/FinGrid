@@ -595,7 +595,7 @@ chore:    Build / config changes
 
 <div align="center">
 
-**Your Name**
+**Suman Kumar Jha**
 *Full Stack Developer Intern @ Code-B*
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SkjOO5-181717?style=flat-square&logo=github)](https://github.com/SkjOO5)
