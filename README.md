@@ -28,10 +28,6 @@ and monitor payments — all in one powerful dark-mode dashboard.
 [📡 API Docs](#-api-documentation) •
 [🖼 Screenshots](#-screenshots)
 
-<br/>
-
-![FinGrid Dashboard Preview](https://via.placeholder.com/900x500/0D0D1A/6366F1?text=FinGrid+Dashboard+Preview)
-
 </div>
 
 ---
