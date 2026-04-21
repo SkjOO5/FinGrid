@@ -475,18 +475,6 @@ DELETE /api/payments/:id            Delete payment
 
 ---
 
-## 🖼 Screenshots
-
-| Page | Preview |
-|------|---------|
-| 🔐 Login | ![Login](https://via.placeholder.com/400x250/0D0D1A/6366F1?text=Login+Page) |
-| 📊 Dashboard | ![Dashboard](https://via.placeholder.com/400x250/0D0D1A/6366F1?text=Dashboard) |
-| 👥 Clients | ![Clients](https://via.placeholder.com/400x250/0D0D1A/6366F1?text=Clients) |
-| 🧾 Invoices | ![Invoices](https://via.placeholder.com/400x250/0D0D1A/6366F1?text=Invoices) |
-| 👤 Profile | ![Profile](https://via.placeholder.com/400x250/0D0D1A/6366F1?text=Profile) |
-
----
-
 ## 🔒 Environment Variables
 
 ### Frontend (.env)
